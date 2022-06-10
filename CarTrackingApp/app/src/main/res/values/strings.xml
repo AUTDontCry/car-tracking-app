@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CarTrackingApp</string>
+    <string name="offline">offline</string>
+    <string name="item">Item</string>
+</resources>
